@@ -24,13 +24,3 @@ stdin.on('data', (key) => {
 
 
 
-// const timer = function(duration) {
-//   if(duration <= 0 || isNaN(duration)) {
-//     return;
-//   }
-//   setTimeout(() => {
-//     console.log('It\'s time!');
-//   }, duration);
-// }
-
-// timer(args);  
